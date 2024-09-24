@@ -12,7 +12,5 @@ Data Cleaning:
 Use provided scripts and workflows to clean and preprocess data.
 Data Analysis:
 Apply analytics techniques to analyze the hiring process stages, identify trends, and derive actionable insights.
-Visualization:
-Generate visual reports and interactive dashboards using tools like Tableau or Power BI to visualize hiring metrics and trends.
-Contact
-Your Name -VEENACHANDRA.VN@GMAIL.COM
+
+contact -VEENACHANDRA.VN@GMAIL.COM
